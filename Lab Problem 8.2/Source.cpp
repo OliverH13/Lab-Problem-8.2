@@ -37,7 +37,6 @@ int count_words(string str) {
             sum += convert(str[i]);
     }
     return sum + 1;
-
 }
 
 int convert(char space) {
